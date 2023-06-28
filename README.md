@@ -49,6 +49,7 @@ git clone [https://github.com/theprelior/fake-news-detector-api.git]
   ```
 
 4. Access the application in your browser at `http://localhost:3000`.
+![image](https://github.com/theprelior/fake-news-detector-api/assets/43340373/1c34d579-bcd0-4fc9-9334-7358cc506f1e)
 
 
 ## License
