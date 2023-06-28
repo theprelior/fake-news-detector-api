@@ -11,6 +11,7 @@ This project is an application developed for detecting fake news. It consists of
 
 3. When the user enters the desired news and clicks the "Submit" button, the text is sent to the mock API. The mock API forwards the text to the Flask server, which feeds it into the trained model and returns the output back to the mock API. Finally, the mock API sends the output to the user.
 
+Note that, if you want to try your own model use the same code instruction in fakenewsdetection.py
 ## Installation
 
 You can set up the project on your local machine by following these steps:
