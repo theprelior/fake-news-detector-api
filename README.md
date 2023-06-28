@@ -27,6 +27,8 @@ git clone [https://github.com/theprelior/fake-news-detector-api.git]
   ```
 - Install the required packages 
   ```
+  pip install flask flask_cors pandas scikit-learn
+  ```
 - Start the Flask server by running the following command:
   ```
   python lastconnectedversion.py
